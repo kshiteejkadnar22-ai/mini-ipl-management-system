@@ -30,6 +30,31 @@ The **Mini IPL Management System** provides a simple solution by storing each te
 
 ---
 
+The project also includes an interactive web page for IPL roster management.
+
+### Website Features
+
+* Select and view IPL teams
+* Search players by name, jersey number, or role
+* Add new players to a roster
+* Remove players from a roster
+* Transfer players between teams
+* Reset browser-saved changes
+
+### Open the Website
+
+🔗 **[Click here to open the IPL Roster Manager](https://kshiteejkadnar22-ai.github.io/mini-ipl-management-system/)**
+
+The web page is built using:
+
+| File | Purpose |
+| ---- | ------- |
+| `index.html` | Website structure |
+| `styles.css` | Website design |
+| `app.js` | Player management features |
+| `*.txt` | IPL team player data |
+
+
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
