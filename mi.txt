@@ -1,0 +1,15 @@
+Player Name: Hardik Pandya | Jersey Number: 33 | Role: Right Handed Batsman, Right Arm Medium Fast
+Player Name: Rohit Sharma | Jersey Number: 45 | Role: Right Handed Batsman
+Player Name: Suryakumar Yadav | Jersey Number: 63 | Role: Right Handed Batsman
+Player Name: Tilak Varma | Jersey Number: 9 | Role: Left Handed Batsman
+Player Name: Quinton de Kock | Jersey Number: 12 | Role: Wicketkeeper, Left Handed Batsman
+Player Name: Sherfane Rutherford | Jersey Number: 8 | Role: Left Handed Batsman
+Player Name: Robin Minz | Jersey Number: 28 | Role: Wicketkeeper, Left Handed Batsman
+Player Name: Mitchell Santner | Jersey Number: 74 | Role: Left Handed Batsman, Left Arm Orthodox Spin
+Player Name: Will Jacks | Jersey Number: 22 | Role: Right Handed Batsman, Right Arm Off Spin
+Player Name: Shardul Thakur | Jersey Number: 54 | Role: Right Arm Medium Fast
+Player Name: Jasprit Bumrah | Jersey Number: 93 | Role: Right Arm Fast
+Player Name: Trent Boult | Jersey Number: 18 | Role: Left Arm Fast
+Player Name: Deepak Chahar | Jersey Number: 90 | Role: Right Arm Medium Fast
+Player Name: Mayank Markande | Jersey Number: 19 | Role: Right Arm Leg Spin
+Player Name: Naman Dhir | Jersey Number: 17 | Role: Right Handed Batsman, Right Arm Off Spin

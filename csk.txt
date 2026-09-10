@@ -1,0 +1,15 @@
+Player Name: Ruturaj Gaikwad | Jersey Number: 31 | Role: Right Handed Batsman
+Player Name: MS Dhoni | Jersey Number: 7 | Role: Wicketkeeper, Right Handed Batsman
+Player Name: Sanju Samson | Jersey Number: 11 | Role: Wicketkeeper, Right Handed Batsman
+Player Name: Dewald Brevis | Jersey Number: 19 | Role: Right Handed Batsman
+Player Name: Sarfaraz Khan | Jersey Number: 97 | Role: Right Handed Batsman
+Player Name: Shivam Dube | Jersey Number: 25 | Role: Left Handed Batsman, Right Arm Medium
+Player Name: Jamie Overton | Jersey Number: 18 | Role: Right Handed Batsman, Right Arm Fast
+Player Name: Matthew William Short | Jersey Number: 5 | Role: Right Handed Batsman, Right Arm Off Spin
+Player Name: Khaleel Ahmed | Jersey Number: 15 | Role: Left Arm Medium Fast
+Player Name: Noor Ahmad | Jersey Number: 61 | Role: Left Arm Wrist Spin (Chinaman)
+Player Name: Nathan Ellis | Jersey Number: 57 | Role: Right Arm Medium Fast
+Player Name: Shreyas Gopal | Jersey Number: 20 | Role: Right Arm Leg Spin
+Player Name: Akeal Hosein | Jersey Number: 74 | Role: Left Arm Orthodox Spin
+Player Name: Matt Henry | Jersey Number: 14 | Role: Right Arm Fast
+Player Name: Rahul Chahar | Jersey Number: 22 | Role: Right Arm Leg Spin

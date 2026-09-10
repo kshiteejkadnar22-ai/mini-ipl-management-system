@@ -1,0 +1,15 @@
+Player Name: Ajinkya Rahane | Jersey Number: 27 | Role: Right Handed Batsman
+Player Name: Rinku Singh | Jersey Number: 35 | Role: Left Handed Batsman
+Player Name: Cameron Green | Jersey Number: 42 | Role: Right Handed Batsman, Right Arm Medium Fast
+Player Name: Sunil Narine | Jersey Number: 74 | Role: Left Handed Batsman, Right Arm Off Spin
+Player Name: Rachin Ravindra | Jersey Number: 8 | Role: Left Handed Batsman, Left Arm Orthodox Spin
+Player Name: Rovman Powell | Jersey Number: 26 | Role: Right Handed Batsman
+Player Name: Finn Allen | Jersey Number: 24 | Role: Wicketkeeper, Right Handed Batsman
+Player Name: Rahul Tripathi | Jersey Number: 52 | Role: Right Handed Batsman
+Player Name: Angkrish Raghuvanshi | Jersey Number: 18 | Role: Right Handed Batsman
+Player Name: Ramandeep Singh | Jersey Number: 5 | Role: Right Handed Batsman, Right Arm Medium
+Player Name: Matheesha Pathirana | Jersey Number: 99 | Role: Right Arm Fast
+Player Name: Varun Chakravarthy | Jersey Number: 29 | Role: Right Arm Off Spin
+Player Name: Harshit Rana | Jersey Number: 33 | Role: Right Arm Fast
+Player Name: Vaibhav Arora | Jersey Number: 66 | Role: Right Arm Medium Fast
+Player Name: Umran Malik | Jersey Number: 21 | Role: Right Arm Fast

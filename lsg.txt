@@ -1,0 +1,15 @@
+Player Name: Rishabh Pant | Jersey Number: 17 | Role: Wicketkeeper, Left Handed Batsman
+Player Name: Nicholas Pooran | Jersey Number: 29 | Role: Wicketkeeper, Left Handed Batsman
+Player Name: Aiden Markram | Jersey Number: 94 | Role: Right Handed Batsman, Right Arm Off Spin
+Player Name: Mitchell Marsh | Jersey Number: 8 | Role: Right Handed Batsman, Right Arm Medium
+Player Name: Wanindu Hasaranga | Jersey Number: 99 | Role: Right Arm Leg Spin, Right Handed Batsman
+Player Name: Ayush Badoni | Jersey Number: 56 | Role: Right Handed Batsman
+Player Name: Shahbaz Ahmed | Jersey Number: 18 | Role: Left Handed Batsman, Left Arm Orthodox Spin
+Player Name: Arshin Kulkarni | Jersey Number: 28 | Role: Right Handed Batsman, Right Arm Medium
+Player Name: Abdul Samad | Jersey Number: 7 | Role: Right Handed Batsman
+Player Name: Mohammad Shami | Jersey Number: 11 | Role: Right Arm Fast
+Player Name: Avesh Khan | Jersey Number: 65 | Role: Right Arm Fast
+Player Name: Anrich Nortje | Jersey Number: 42 | Role: Right Arm Fast
+Player Name: Mayank Yadav | Jersey Number: 61 | Role: Right Arm Fast
+Player Name: Mohsin Khan | Jersey Number: 33 | Role: Left Arm Fast
+Player Name: Josh Inglis | Jersey Number: 6 | Role: Wicketkeeper, Right Handed Batsman

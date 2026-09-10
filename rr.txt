@@ -1,0 +1,15 @@
+Player Name: Riyan Parag | Jersey Number: 3 | Role: Right Handed Batsman, Right Arm Off Spin
+Player Name: Yashasvi Jaiswal | Jersey Number: 64 | Role: Left Handed Batsman
+Player Name: Dhruv Jurel | Jersey Number: 10 | Role: Wicketkeeper, Right Handed Batsman
+Player Name: Shimron Hetmyer | Jersey Number: 189 | Role: Left Handed Batsman
+Player Name: Donovan Ferreira | Jersey Number: 14 | Role: Right Handed Batsman, Wicketkeeper
+Player Name: Sam Curran | Jersey Number: 58 | Role: Left Handed Batsman, Left Arm Medium Fast
+Player Name: Jofra Archer | Jersey Number: 22 | Role: Right Arm Fast
+Player Name: Ravi Bishnoi | Jersey Number: 9 | Role: Right Arm Leg Spin
+Player Name: Sandeep Sharma | Jersey Number: 66 | Role: Right Arm Medium Fast
+Player Name: Kuldeep Sen | Jersey Number: 29 | Role: Right Arm Fast
+Player Name: Nandre Burger | Jersey Number: 16 | Role: Left Arm Fast
+Player Name: Adam Milne | Jersey Number: 20 | Role: Right Arm Fast
+Player Name: Tushar Deshpande | Jersey Number: 90 | Role: Right Arm Medium Fast
+Player Name: Kwena Maphaka | Jersey Number: 17 | Role: Left Arm Fast
+Player Name: Shubham Dubey | Jersey Number: 12 | Role: Left Handed Batsman

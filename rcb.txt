@@ -1,0 +1,15 @@
+Player Name: Rajat Patidar | Jersey Number: 97 | Role: Right Handed Batsman
+Player Name: Virat Kohli | Jersey Number: 18 | Role: Right Handed Batsman
+Player Name: Devdutt Padikkal | Jersey Number: 21 | Role: Left Handed Batsman
+Player Name: Phil Salt | Jersey Number: 6 | Role: Wicketkeeper, Right Handed Batsman
+Player Name: Jitesh Sharma | Jersey Number: 16 | Role: Wicketkeeper, Right Handed Batsman
+Player Name: Tim David | Jersey Number: 10 | Role: Right Handed Batsman
+Player Name: Krunal Pandya | Jersey Number: 24 | Role: Left Handed Batsman, Left Arm Orthodox Spin
+Player Name: Romario Shepherd | Jersey Number: 26 | Role: Right Arm Fast, Right Handed Batsman
+Player Name: Venkatesh Iyer | Jersey Number: 25 | Role: Left Handed Batsman, Right Arm Medium
+Player Name: Josh Hazlewood | Jersey Number: 38 | Role: Right Arm Fast
+Player Name: Bhuvneshwar Kumar | Jersey Number: 15 | Role: Right Arm Medium Fast
+Player Name: Yash Dayal | Jersey Number: 30 | Role: Left Arm Medium Fast
+Player Name: Suyash Sharma | Jersey Number: 13 | Role: Right Arm Leg Spin
+Player Name: Nuwan Thushara | Jersey Number: 99 | Role: Right Arm Fast
+Player Name: Swapnil Singh | Jersey Number: 12 | Role: Left Handed Batsman, Left Arm Orthodox Spin

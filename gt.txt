@@ -1,0 +1,15 @@
+Player Name: Shubman Gill | Jersey Number: 77 | Role: Right Handed Batsman
+Player Name: Jos Buttler | Jersey Number: 63 | Role: Wicketkeeper, Right Handed Batsman
+Player Name: Sai Sudharsan | Jersey Number: 23 | Role: Left Handed Batsman
+Player Name: David Miller | Jersey Number: 10 | Role: Left Handed Batsman
+Player Name: Washington Sundar | Jersey Number: 5 | Role: Right Arm Off Spin, Left Handed Batsman
+Player Name: Rahul Tewatia | Jersey Number: 4 | Role: Left Handed Batsman, Right Arm Leg Spin
+Player Name: Rashid Khan | Jersey Number: 19 | Role: Right Arm Leg Spin, Right Handed Batsman
+Player Name: Mohammed Siraj | Jersey Number: 13 | Role: Right Arm Fast
+Player Name: Kagiso Rabada | Jersey Number: 25 | Role: Right Arm Fast
+Player Name: Prasidh Krishna | Jersey Number: 17 | Role: Right Arm Fast
+Player Name: Kumar Kushagra | Jersey Number: 27 | Role: Wicketkeeper, Right Handed Batsman
+Player Name: Anuj Rawat | Jersey Number: 24 | Role: Wicketkeeper, Left Handed Batsman
+Player Name: Glenn Phillips | Jersey Number: 36 | Role: Wicketkeeper, Right Handed Batsman
+Player Name: Jason Holder | Jersey Number: 11 | Role: Right Handed Batsman, Right Arm Medium Fast
+Player Name: Shahrukh Khan | Jersey Number: 21 | Role: Right Handed Batsman

@@ -1,0 +1,15 @@
+Player Name: Shreyas Iyer | Jersey Number: 41 | Role: Right Handed Batsman
+Player Name: Marcus Stoinis | Jersey Number: 17 | Role: Right Handed Batsman, Right Arm Medium Fast
+Player Name: Prabhsimran Singh | Jersey Number: 84 | Role: Wicketkeeper, Right Handed Batsman
+Player Name: Shashank Singh | Jersey Number: 2 | Role: Right Handed Batsman, Right Arm Medium
+Player Name: Nehal Wadhera | Jersey Number: 24 | Role: Left Handed Batsman
+Player Name: Harpreet Brar | Jersey Number: 95 | Role: Left Arm Orthodox Spin, Left Handed Batsman
+Player Name: Marco Jansen | Jersey Number: 70 | Role: Left Arm Fast, Left Handed Batsman
+Player Name: Azmatullah Omarzai | Jersey Number: 26 | Role: Right Arm Medium Fast, Right Handed Batsman
+Player Name: Arshdeep Singh | Jersey Number: 39 | Role: Left Arm Medium Fast
+Player Name: Yuzvendra Chahal | Jersey Number: 22 | Role: Right Arm Leg Spin
+Player Name: Lockie Ferguson | Jersey Number: 4 | Role: Right Arm Fast
+Player Name: Yash Thakur | Jersey Number: 8 | Role: Right Arm Medium Fast
+Player Name: Musheer Khan | Jersey Number: 13 | Role: Right Handed Batsman, Right Arm Off Spin
+Player Name: Vishnu Vinod | Jersey Number: 7 | Role: Wicketkeeper, Right Handed Batsman
+Player Name: Xavier Bartlett | Jersey Number: 38 | Role: Right Arm Fast

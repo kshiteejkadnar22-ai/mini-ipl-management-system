@@ -1,0 +1,15 @@
+Player Name: Pat Cummins | Jersey Number: 30 | Role: Right Arm Fast, Right Handed Batsman
+Player Name: Heinrich Klaasen | Jersey Number: 45 | Role: Wicketkeeper, Right Handed Batsman
+Player Name: Travis Head | Jersey Number: 62 | Role: Left Handed Batsman, Right Arm Off Spin
+Player Name: Abhishek Sharma | Jersey Number: 4 | Role: Left Handed Batsman, Left Arm Orthodox Spin
+Player Name: Ishan Kishan | Jersey Number: 32 | Role: Wicketkeeper, Left Handed Batsman
+Player Name: Nitish Kumar Reddy | Jersey Number: 23 | Role: Right Handed Batsman, Right Arm Medium
+Player Name: Liam Livingstone | Jersey Number: 58 | Role: Right Handed Batsman, Right Arm Off Spin
+Player Name: Harshal Patel | Jersey Number: 9 | Role: Right Arm Medium Fast
+Player Name: Jaydev Unadkat | Jersey Number: 77 | Role: Left Arm Medium Fast
+Player Name: Shivam Mavi | Jersey Number: 11 | Role: Right Arm Fast
+Player Name: Kamindu Mendis | Jersey Number: 7 | Role: Left Handed Batsman, Right Arm Off Spin
+Player Name: Brydon Carse | Jersey Number: 16 | Role: Right Arm Medium Fast
+Player Name: Jack Edwards | Jersey Number: 19 | Role: Left Handed Batsman, Right Arm Medium
+Player Name: Harsh Dubey | Jersey Number: 28 | Role: Left Handed Batsman, Left Arm Orthodox Spin
+Player Name: Zeeshan Ansari | Jersey Number: 44 | Role: Left Arm Orthodox Spin
