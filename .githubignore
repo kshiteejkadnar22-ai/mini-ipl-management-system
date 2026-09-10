@@ -1,0 +1,5 @@
+# Compiled C program
+ipl_manager
+# macOS / editor files
+.DS_Store
+.vscode/
