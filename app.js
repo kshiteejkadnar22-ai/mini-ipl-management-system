@@ -1,3 +1,23 @@
+const teams = [
+  ["csk", "Chennai Super Kings"], ["mi", "Mumbai Indians"], ["rcb", "Royal Challengers Bengaluru"],
+  ["kkr", "Kolkata Knight Riders"], ["srh", "Sunrisers Hyderabad"], ["rr", "Rajasthan Royals"],
+  ["dc", "Delhi Capitals"], ["pbks", "Punjab Kings"], ["gt", "Gujarat Titans"], ["lsg", "Lucknow Super Giants"]
+].map(([id, name]) => ({ id, name }));
+
+const storageKey = "ipl-roster-manager-v1";
+let rosters = {};
+let activeTeam = "csk";
+let pendingTransfer = null;
+
+const $ = (selector) => document.querySelector(selector);
+const select = $("#team-select");
+const roster = $("#roster");
+
+function parsePlayer(line) {
+  const match = line.match(/^Player Name: (.*?) \| Jersey Number: (\d+) \| Role: (.*)$/);
+  return match ? { name: match[1], jersey: Number(match[2]), roles: match[3] } : null;
+}
+
 async function loadInitialRosters() {
   const saved = localStorage.getItem(storageKey);
   if (saved) return JSON.parse(saved);
@@ -18,7 +38,14 @@ async function loadInitialRosters() {
   }));
 
   return Object.fromEntries(responses);
-}function render() {
+}
+
+function save() { localStorage.setItem(storageKey, JSON.stringify(rosters)); }
+function currentTeam() { return teams.find((team) => team.id === activeTeam); }
+function flash(message) { const element = $("#status"); element.textContent = message; element.hidden = false; setTimeout(() => { element.hidden = true; }, 3500); }
+function escapeHtml(text) { const node = document.createElement("span"); node.textContent = text; return node.innerHTML; }
+
+function render() {
   const team = currentTeam();
   const query = $("#search-input").value.trim().toLowerCase();
   const players = rosters[activeTeam] || [];
