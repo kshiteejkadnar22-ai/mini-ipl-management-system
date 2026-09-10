@@ -1,51 +1,36 @@
-# Mini IPL Management System (Terminal, C, File Handling)
+# Mini IPL Management System
 
-This is a simple terminal-based IPL management system written in C using **file handling**.
+A simple IPL roster management project built with C and a web interface.
 
-Each team has its own text file in `teams/` and every operation (add/remove/transfer) **updates the `.txt` files**.
+## Features
 
-## Web version
+- View all 10 IPL teams
+- Browse team players and jersey numbers
+- Search players by name, jersey number, or role
+- Add players to a team
+- Remove players from a team
+- Transfer players between teams
+- Store browser changes locally
 
-The project also includes a browser interface in `index.html`. It loads the same team roster files and supports viewing, searching, adding, removing, and transferring players.
+## Web Version
 
-Start a local web server from the project folder:
+The live web app is available here:
 
-```bash
-python3 -m http.server 8000
-```
+https://kshiteejkadnar22-ai.github.io/mini-ipl-management-system/
 
-Then open [http://localhost:8000](http://localhost:8000). Web changes are saved in the browser only (using local storage); they do not overwrite the source roster text files.
+The web version uses:
 
-## Files
+- `index.html` — webpage structure
+- `styles.css` — webpage design
+- `app.js` — player, search, add, remove, and transfer logic
+- `*.txt` files — team player data
 
-- `ipl_manager.c` - main program
-- `Makefile` - build/run helpers
-- `teams/*.txt` - one roster file per team (pre-filled with 15 players)
+## C Version
 
-## How to compile & run
+The terminal version is written in C.
+
+### Compile and run
 
 ```bash
 make
 ./ipl_manager
-```
-
-Or:
-
-```bash
-make run
-```
-
-## Menu options
-
-1. View Teams
-2. Search a Team (show players)
-3. Add Player to a Team (enter name, jersey number, select roles)
-4. Remove Player from a Team (by jersey number)
-5. Transfer Player (by jersey number; removes from source and appends to destination)
-6. Exit
-
-## Team file format
-
-Example line (from `teams/rcb.txt`):
-
-`Player Name: Virat Kohli | Jersey Number: 18 | Role: Right Handed Batsman`
