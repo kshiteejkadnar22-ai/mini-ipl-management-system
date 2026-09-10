@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="A browser interface for the Mini IPL Management System." />
+    <title>IPL Roster Manager</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div>
+        <p class="eyebrow">MINI IPL MANAGEMENT SYSTEM</p>
+        <h1>IPL Roster Manager</h1>
+        <p class="subtitle">Browse, update, and transfer players across all ten teams.</p>
+      </div>
+      <button id="reset-button" class="button button-secondary" type="button">Reset browser changes</button>
+    </header>
+
+    <main>
+      <section class="controls" aria-label="Team controls">
+        <label for="team-select">Select a team</label>
+        <select id="team-select"></select>
+        <label class="search-label" for="search-input">Find a player</label>
+        <input id="search-input" type="search" placeholder="Search by name, jersey, or role" />
+        <button id="add-button" class="button" type="button">Add player</button>
+      </section>
+
+      <section class="team-summary" aria-live="polite">
+        <div>
+          <p class="eyebrow" id="team-code">TEAM</p>
+          <h2 id="team-title">Loading team…</h2>
+        </div>
+        <div class="count"><strong id="player-count">0</strong><span>players</span></div>
+      </section>
+
+      <section id="status" class="status" hidden></section>
+      <section id="roster" class="roster" aria-label="Player roster"></section>
+    </main>
+
+    <dialog id="player-dialog">
+      <form id="player-form" method="dialog">
+        <div class="dialog-heading">
+          <div>
+            <p class="eyebrow">NEW ROSTER ENTRY</p>
+            <h2>Add player</h2>
+          </div>
+          <button class="close" value="cancel" aria-label="Close dialog">×</button>
+        </div>
+        <label for="player-name">Player name</label>
+        <input id="player-name" name="name" required maxlength="100" />
+        <label for="jersey-number">Jersey number</label>
+        <input id="jersey-number" name="jersey" required type="number" min="1" max="999" />
+        <label for="player-roles">Roles <span>(separate with commas)</span></label>
+        <input id="player-roles" name="roles" required placeholder="Wicketkeeper, Right Handed Batsman" maxlength="200" />
+        <p id="form-error" class="form-error" role="alert"></p>
+        <div class="dialog-actions">
+          <button class="button button-secondary" type="button" data-close="player-dialog">Cancel</button>
+          <button class="button" id="save-player" value="default">Add to team</button>
+        </div>
+      </form>
+    </dialog>
+
+    <dialog id="transfer-dialog">
+      <form id="transfer-form" method="dialog">
+        <div class="dialog-heading">
+          <div>
+            <p class="eyebrow">MOVE ROSTER ENTRY</p>
+            <h2 id="transfer-player-name">Transfer player</h2>
+          </div>
+          <button class="close" value="cancel" aria-label="Close dialog">×</button>
+        </div>
+        <label for="destination-team">Destination team</label>
+        <select id="destination-team" required></select>
+        <p id="transfer-error" class="form-error" role="alert"></p>
+        <div class="dialog-actions">
+          <button class="button button-secondary" type="button" data-close="transfer-dialog">Cancel</button>
+          <button class="button" id="confirm-transfer" value="default">Transfer</button>
+        </div>
+      </form>
+    </dialog>
+
+    <script src="app.js"></script>
+  </body>
+</html>
